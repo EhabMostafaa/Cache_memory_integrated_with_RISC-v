@@ -1,2 +1,3 @@
+Design a Cache Memory contains (Cache Controller, Cache Memory and Data Memory) and integrated it with the design of single cycle RISC-v instead of the Data Memory Block. 
 The Implementation of Cache Memory and integrate it with Single Cylce RISC-v Architecture which explained in this link  https://github.com/EhabMostafaa/Single-Cycle-RISC-v.git 
 i do the Cache Memory with my friend : Mohamed Mahmoud Elfeki
